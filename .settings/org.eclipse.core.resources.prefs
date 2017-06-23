@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/xslt/AppendContentToFile.java=UTF-8
+encoding//src/xslt/GetURL.java=UTF-8
+encoding//src/xslt/HtmlRequest.java=UTF-8
+encoding//src/xslt/MThread.java=UTF-8
+encoding//src/xslt/SimpleCodeGenerator.java=UTF-8
+encoding//src/xslt/WriteFile.java=UTF-8
+encoding//src/xslt/XMLtoTXT.java=UTF-8
+encoding//src/xslt/XmlParseHandler.java=UTF-8
+encoding//src/xslt/pexportThread.java=UTF-8
+encoding//src/xslt/txttoxml.java=UTF-8
+encoding//src/xslt/writeXML.java=UTF-8
